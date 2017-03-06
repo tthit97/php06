@@ -1,0 +1,21 @@
+body{
+	font-family: Courier;
+	font-size: 87.5%;
+	margin-left: 20px;
+	background-color: black;
+	}
+h1{
+	margin-left:0px;
+	font-size:500%;
+	color: #00CD00;
+}
+section{
+	font-size: 150%;
+	color: #00CD00;
+	margin-left: 30px;
+}
+footer{
+	margin-left: 20px;
+	color: #00CD00;
+	font-size: 100%;
+}
