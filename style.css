@@ -1,0 +1,17 @@
+body{
+	margin-left: 25%;
+}
+h1{
+	color: #EEB422;
+}
+
+h4{
+	color: green;
+}
+p{
+	padding-right: 500px;
+}
+img{
+	float: left;
+	margin-right: 1em;
+}
